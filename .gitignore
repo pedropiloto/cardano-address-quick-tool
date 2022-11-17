@@ -1,0 +1,12 @@
+node_modules
+yarn.lock
+.DS_Store
+data
+logs
+yarn-error.log
+newrelic_agent.log
+.env
+.env.out
+config/wallets.json
+config/wallets-backup.json
+config/wallets.txt
